@@ -13,8 +13,8 @@ rucksacks = file_in.open().read().splitlines()
 priority = 0
 
 for r in rucksacks:
-    for i in r[:int(len(r)/2)]:
-        if i in r[int(len(r)/2):]:
+    for i in r[:len(r)//2]:
+        if i in r[len(r)//2:]:
             priority += get_priority(i)
             break
 print(priority)
