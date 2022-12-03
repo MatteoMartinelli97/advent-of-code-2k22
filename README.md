@@ -1,3 +1,5 @@
+![Top Language](https://img.shields.io/github/languages/top/MatteoMartinelli97/advent-of-code-2k22)
+
 # Advent of Code 2022
 
 This is the repo for the [funniest game](https://adventofcode.com) in Christmast time ever.  
