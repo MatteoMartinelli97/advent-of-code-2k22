@@ -2,7 +2,6 @@
 # Matteo Martinelli
 
 from pathlib import Path
-import numpy as np
 
 file_in = Path('input') / 'day6.txt'
 
